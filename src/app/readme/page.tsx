@@ -8,6 +8,7 @@ export default function Page() {
                 <p className="text-gray-600">
                 Desarrollar un Backoffice de una tienda donde el usuario pueda ver un listado de productos, consultar el detalle de uno, modificarlo y borrarlo. No hace falta Inicio de sesión. Tampoco es necesario publicar la web en ningún servidor.
                 </p>
+                <a href="https://github.com/Acrismatic/prueba-tecnica" target="_blank">Repositorio Prueba técnica</a>
             </section>
 
             <section className="mb-8">
